@@ -1,4 +1,4 @@
-📊 Análise da Infraestrutura das Escolas Públicas da Paraíba
+## 📊 Análise da Infraestrutura das Escolas Públicas da Paraíba
 
 📌 Tema Geral
 
